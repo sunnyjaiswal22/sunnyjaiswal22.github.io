@@ -116,9 +116,6 @@ author:
     - label: 'Linkedin'
       icon: 'fab fa-fw fa-linkedin'
       url: 'https://www.linkedin.com/in/sunnyjaiswal22/'
-    - label: 'Youtube'
-      icon: 'fab fa-fw fa-youtube'
-      url: 'https://www.youtube.com/@sunnyjaiswal22'
     - label: 'Twitter'
       icon: 'fab fa-fw fa-twitter-square'
       url: 'https://twitter.com/sunnyjaiswal22'
@@ -282,3 +279,4 @@ defaults:
       comments: true
       share: true
       related: true
+
